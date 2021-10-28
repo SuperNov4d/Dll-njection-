@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\ozcan\source\repos\Dll Injector Examples\Dll Injector Examples\main.cpp(105,9): warning C4477: 'printf' : '%x' biçim dizesi 'unsigned int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'void *'
+  Dll Injector Examples.vcxproj -> C:\Users\ozcan\source\repos\Dll Injector Examples\Debug\Dll Injector Examples.exe
